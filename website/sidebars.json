@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "快速开始": ["get-started"],
+    "定位组件": ["comp-position", "comp-popup", "comp-popover"],
+    "表单组件": ["comp-datepicker"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
